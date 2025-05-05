@@ -1,4 +1,5 @@
 https://avyana--da7ece46276411f086ff569c3dd06744.web.val.run/ 
+![Capture d'écran 2025-04-29 124328](https://github.com/user-attachments/assets/42ac9c8a-b4c7-4238-b9e5-4506895c325d)
 # Mental-Health-Application
 Projects made with AI, it is created to check up on  patients daily and tells them if they need medical support or not!
 /** @jsxImportSource https://esm.sh/react@18.2.0 */
@@ -136,4 +137,4 @@ export default async function server(request: Request): Promise<Response> {
   `, {
     headers: { "content-type": "text/html" }
   });
-}![Capture d'écran 2025-04-29 124328](https://github.com/user-attachments/assets/42ac9c8a-b4c7-4238-b9e5-4506895c325d)
+}
